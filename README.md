@@ -1,3 +1,3 @@
 # hello
 
-A repo for the Hello, SkyLounge blueprint
+A repo for using the Hello, SkyLounge blueprint
