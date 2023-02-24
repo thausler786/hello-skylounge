@@ -1,0 +1,22 @@
+---
+skylounge-config:
+  id: "skylounge.yml"
+  uri: "stevewallone/hello-skylounge/skylounge.yml"
+  oid: "954fd336a269223bccf56cff0e6871829d72b256"
+  version-url: "/stevewallone/hello-skylounge/blob/954fd336a269223bccf56cff0e6871829d72b256/skylounge.yml"
+blueprint:
+  id: "blueprint"
+  uri: "sky-lounge/public-skylounge-library/blueprints/demo/hello-skylounge/blueprint.yml"
+  oid: "66cc96436f229b3ad5f3f34fe786fc2748f4224d"
+  version-url: "/sky-lounge/public-skylounge-library/blob/66cc96436f229b3ad5f3f34fe786fc2748f4224d/blueprints/demo/hello-skylounge/blueprint.yml"
+workflows:
+- id: "hello"
+  uri: "sky-lounge/public-skylounge-library/blueprints/demo/hello-skylounge/workflow-templates/hello.yml"
+  oid: "8ec850d40b2d92375d7fb0f928c84e5b3cd8fad7"
+  version-url: "/sky-lounge/public-skylounge-library/blob/8ec850d40b2d92375d7fb0f928c84e5b3cd8fad7/blueprints/demo/hello-skylounge/workflow-templates/hello.yml"
+  jobs: []
+  steps:
+  - id: "say-hello"
+    uri: "stevewallone/hello-skylounge/skylounge/step/custom-hello-step.yml"
+    oid: "c3e89001972751e21d0a33d99b343d97c2680c11"
+    version-url: "/stevewallone/hello-skylounge/blob/c3e89001972751e21d0a33d99b343d97c2680c11/skylounge/step/custom-hello-step.yml"
