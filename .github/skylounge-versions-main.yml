@@ -2,8 +2,8 @@
 skylounge-config:
   id: "skylounge.yml"
   uri: "stevewallone/hello-skylounge/skylounge.yml"
-  oid: "a7ab6226df5306474bcc53383c831323edb8ac13"
-  version-url: "/stevewallone/hello-skylounge/blob/a7ab6226df5306474bcc53383c831323edb8ac13/skylounge.yml"
+  oid: "935091d62fb3d1bf4622ff32e4006da2564f2644"
+  version-url: "/stevewallone/hello-skylounge/blob/935091d62fb3d1bf4622ff32e4006da2564f2644/skylounge.yml"
 blueprint:
   id: "blueprint"
   uri: "sky-lounge/public-skylounge-library/blueprints/demo/hello-skylounge/blueprint.yml"
